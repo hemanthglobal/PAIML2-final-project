@@ -1,0 +1,9 @@
+position,model,window,stride,epochs,lr,standardised,class_weighted,random_acc,random_macro_f1,loso_acc_mean,loso_macro_f1_mean,loso_macro_f1_sd,gap_macro_f1,timestamp
+wrist,CNN,80,40,40,0.001,True,True,0.9813,0.9759,0.9484,0.9259,0.0251,0.05,2026-10-19T09:30:40
+wrist,Majority,80,40,40,0.001,False,False,0.557,0.0596,0.5518,0.0592,0.0028,0.0004,2026-10-19T09:30:40
+wrist,Keras-Features,80,40,40,0.001,False,True,0.9233,0.9142,0.9288,0.9167,0.0384,-0.0024,2026-10-19T09:34:51
+wrist,LSTM,80,40,40,0.001,True,True,0.9606,0.9504,0.9331,0.9043,0.0324,0.0461,2026-10-19T09:52:55
+leg,CNN,80,40,40,0.001,True,True,0.9733,0.9603,0.9201,0.8784,0.036,0.0819,2026-10-19T09:58:01
+leg,Keras-Features,80,40,40,0.001,False,True,0.8016,0.8163,0.7829,0.7623,0.0481,0.054,2026-10-19T10:01:44
+pocket,CNN,80,40,40,0.001,True,True,0.9643,0.9459,0.7751,0.6202,0.0699,0.3258,2026-10-19T10:07:13
+pocket,Keras-Features,80,40,40,0.001,False,True,0.847,0.7646,0.6359,0.5605,0.0702,0.2041,2026-10-19T10:11:13

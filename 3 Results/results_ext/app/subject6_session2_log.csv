@@ -1,0 +1,36 @@
+start,duration_s,exercise,confidence,status,true_exercise,correct
+02:10,16,LegCurl,0.99,CONFIRM: weak on new people,LegCurl,True
+02:42,16,LegCurl,0.94,CONFIRM: weak on new people,LegCurl,True
+03:14,14,LegCurl,0.62,"CONFIRM: low confidence, weak on new people",LegCurl,True
+04:58,22,Squat,0.96,logged,Squat,True
+05:34,20,Squat,0.95,logged,Squat,True
+06:02,22,Squat,0.98,logged,Squat,True
+07:34,20,Adductor,0.96,CONFIRM: weak on new people,Adductor,True
+08:00,24,Adductor,0.94,CONFIRM: weak on new people,Adductor,True
+08:28,22,Adductor,0.98,CONFIRM: weak on new people,Adductor,True
+09:56,20,LegPress,1.0,logged,LegPress,True
+10:38,48,LegPress,0.81,logged,LegPress,True
+11:56,18,Squat,1.0,logged,Squat,True
+12:20,22,Squat,0.98,logged,Squat,True
+12:52,18,Squat,1.0,logged,Squat,True
+16:12,16,ArmCurl,0.89,logged,ArmCurl,True
+16:40,16,ArmCurl,0.96,logged,ArmCurl,True
+17:34,24,Squat,1.0,logged,Squat,True
+18:02,24,Squat,1.0,logged,Squat,True
+18:30,26,Squat,1.0,logged,Squat,True
+20:14,22,BenchPress,0.96,logged,BenchPress,True
+20:50,18,BenchPress,1.0,logged,BenchPress,True
+21:44,18,BenchPress,1.0,logged,BenchPress,True
+23:16,10,RopeSkipping,0.89,logged,Null,False
+23:38,8,RopeSkipping,0.89,CONFIRM: shorter than usual,Null,False
+23:52,8,RopeSkipping,1.0,CONFIRM: shorter than usual,Null,False
+26:16,46,Walking,0.96,CONFIRM: shorter than usual,Null,False
+28:34,8,RopeSkipping,1.0,CONFIRM: shorter than usual,RopeSkipping,True
+28:54,8,RopeSkipping,1.0,CONFIRM: shorter than usual,RopeSkipping,True
+29:10,8,RopeSkipping,1.0,CONFIRM: shorter than usual,RopeSkipping,True
+30:38,10,Walking,0.64,"CONFIRM: low confidence, shorter than usual",Walking,True
+30:52,14,Walking,0.81,CONFIRM: shorter than usual,Walking,True
+31:12,8,Walking,0.99,CONFIRM: shorter than usual,Walking,True
+33:24,56,Running,1.0,CONFIRM: shorter than usual,Running,True
+37:10,76,StairClimber,0.97,CONFIRM: shorter than usual,StairClimber,True
+39:34,38,Riding,0.95,CONFIRM: shorter than usual,Riding,True
